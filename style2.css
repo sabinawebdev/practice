@@ -1,0 +1,231 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.Watch{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    align-items: center;
+    gap: 200px;
+    margin: 30px;
+  
+    
+}
+.a-watch img{
+    border-radius: 20px;
+    border: 5px solid chocolate;
+    flex: 50%;
+}
+.b-watch img{
+    border-radius: 20px;
+    border: 5px solid chocolate;
+    flex: 50%; 
+}
+.c-watch img{
+    border-radius: 20px;
+    border: 5px solid chocolate;
+    flex: 50%; 
+}
+.c-watch:hover{
+    background-color: rgb(255, 192, 247);
+}
+
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.main{
+    display: flex;
+    gap: 550px;
+    padding: 40px;
+    background-color: burlywood;
+    
+}
+
+
+
+
+.main-2{
+    text-color= "bottom: blue;";
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    height: 40px;
+    align-items: end;
+    justify-content: end;
+    
+    
+}
+.main-4 img{
+    border-radius: 50%;
+    border: 7px solid chocolate;
+
+}
+
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+    justify-content: space-around;
+    margin: 30px;
+    
+   
+}
+
+.box-1{
+    background-color: chartreuse;
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+    gap: 40px;
+    padding: 10px;
+   visibility: visible;
+   border-radius: 50px;
+   overflow: scroll;
+
+    
+    
+}
+.box-1:hover{
+
+    background-color: blueviolet;
+    cursor: pointer
+    
+}
+.box-2{
+    background-color: brown;
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+    
+    border-radius: 50px;
+    gap: 40px;
+    padding: 10px;
+    transform: translate(50deg)
+    
+  
+}
+
+.box-2:hover{
+
+    background-color: blueviolet;
+    cursor:pointer ;}
+.box-3{
+    background-color: darkgoldenrod;
+    height: 400px;
+    width: 300px;
+    border: 5px solid black;
+    gap: 40px;
+    padding: 20px;
+    border-radius: 50px;
+  
+
+    
+}
+
+.box-3:hover{
+
+    background-color: blueviolet;
+    cursor:pointer ;
+
+}
+.main-3 img{
+    border-radius: 50px;
+    border: 1px solid blue;
+ 
+
+
+    }
+    .btn{
+        border-radius: 20px;
+        background-color: rgb(247, 84, 165);
+        height: 40px;
+        width: 200px;
+    }
+
+    .btn-1{
+        border-radius: 20px;
+        background-color: darkturquoise;
+        height: 40px;
+        width: 200px;
+    }
+    .all-btn{
+        height: 40px;
+        width: 200px;
+        border-radius: 40px;
+        background-color: salmon;
+    }
+    .allbtn-a{
+        height: 40px;
+        width: 200px;
+        border-radius: 40px;
+        background-color: salmon;
+    }
+    .allbtn-b{
+        height: 40px;
+        width: 200px;
+        border-radius: 40px;
+        background-color: salmon;
+    }
+    .web{
+        background-color:olivedrab;
+       text-align: center;
+       color: white;
+     
+    }
+    .dev{
+        display: flex;
+        box-shadow: 50%;  
+        
+        padding: 20px;
+    }
+    
+    .dev-1{
+        border: 5px solid black;
+        margin: 10px;
+        padding: 20px;
+        background-color: aqua;
+        text-align: center;
+    }
+    .dev-2{
+        border: 5px solid black;
+        margin: 10px;
+        padding: 20px;
+        background-color: burlywood;
+        text-align: center;
+    }
+    .dev-3{
+        border: 5px solid black;
+        margin: 10px;
+        padding: 20px;
+        background-color: coral;
+        text-align: center;
+    }
+    .footer{
+        text-align: center;
+        background-color: rgb(32, 32, 75);
+        height: 100px;
+        color: bisque;
+    }
+    .button{
+        border-radius: 50px;
+        height: 50px;
+        width: 100px;
+        background-color: darkorange;
+    }
+    .dev-4{
+        border-radius: 20px;
+    }

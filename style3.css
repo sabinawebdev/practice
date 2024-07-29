@@ -1,0 +1,29 @@
+.one{
+   background-color: rgb(255, 192, 241);
+    margin: 40px;
+    padding: 40px;
+    border-radius: 50px;
+    color: blue
+}
+.two{
+    list-style: none;
+    display: flex;
+    gap: 80px;
+    
+}
+.three{
+    margin: 40px;
+    border-radius: 100%;
+}
+
+.one-1{
+    display: flex;
+    gap: 200px;
+    margin: 40px;
+    padding: 20px;
+    
+}
+.two-2{
+    height: 20px;
+width: 600px;
+}
